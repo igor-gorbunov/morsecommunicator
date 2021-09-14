@@ -3,7 +3,7 @@
 
 namespace drivers::light
 {
-class led final
+class led
 {
 public:
     led(bool state = false);
